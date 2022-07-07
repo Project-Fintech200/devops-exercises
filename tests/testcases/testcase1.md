@@ -3,7 +3,7 @@
 </b></details>
 
 <details>
-<summary>How containers are different from VMs?</summary><br><b>
+<summary>How are containers different from VMs?</summary><br><b>
 
 The primary difference between containers and VMs is that containers allow you to virtualize
 multiple workloads on the operating system while in the case of VMs the hardware is being virtualized to
@@ -42,7 +42,7 @@ Docker daemon redirects output from container to Docker CLI which redirects it t
 <details>
 <summary>What `docker commit` does?. When will you use it?</summary><br><b>
 </b></details>
-
+re
 <details>
 <summary>How would you transfer data from one container into another?</summary><br><b>
 </b></details>
